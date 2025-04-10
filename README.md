@@ -1,10 +1,9 @@
-# 🏨 Hospitality Sales Analysis with Power BI
+#  Hospitality Sales Analysis with Power BI
 
 This project utilizes **Power BI** to analyze and visualize sales data from multiple AtliQ hotels across various cities. The objective is to derive actionable insights to enhance revenue management and operational efficiency in the hospitality sector.
 
----
 
-## 🗂️ Project Overview
+##  Project Overview
 
 AtliQ Grands, a chain of five-star hotels in India, faced challenges with declining market share and revenue in the luxury and business hotel categories. To address this, a comprehensive analysis of sales data was conducted to inform strategic decisions.
 
@@ -13,9 +12,8 @@ AtliQ Grands, a chain of five-star hotels in India, faced challenges with declin
 - Calculate key performance metrics such as Revenue per Available Room (RevPAR), Average Daily Rate (ADR), and Occupancy Rate.
 - Provide insights to assist management in making data-driven decisions.
 
----
 
-## 📊 Key Features
+## Key Features
 
 - **Interactive Dashboard:** A Power BI dashboard featuring:
   - **Overall Analysis:** Overview of sales performance.
@@ -31,17 +29,13 @@ AtliQ Grands, a chain of five-star hotels in India, faced challenges with declin
 
 - **Time Intelligence:** Analysis of sales trends over a three-month period, identifying peak periods and areas needing improvement.
 
----
-
-## 🧰 Tools and Technologies Used
+## Tools and Technologies Used
 
 - **Power BI Desktop:** For data visualization and dashboard creation.
 - **DAX:** For creating custom calculations and metrics.
 - **Excel:** For initial data cleaning and preparation.
 
----
-
-## 📈 Key Metrics Analyzed
+##  Key Metrics Analyzed
 
 - **Total Revenue:** Sum of all sales across hotels and services.
 - **Occupancy Rate:** Percentage of occupied rooms relative to available rooms.
@@ -50,7 +44,6 @@ AtliQ Grands, a chain of five-star hotels in India, faced challenges with declin
 - **Booking Trends:** Analysis of booking patterns, including peak seasons and off-peak periods.
 - **Cancellation Patterns:** Insights into booking cancellations and associated revenue loss.
 
----
 
 ## 📷 Dashboard Preview
 
